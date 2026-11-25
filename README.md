@@ -3,7 +3,7 @@
 Salary directory and compensation insights for an HR manager, built for a workforce of about 10,000 people.
 
 An employee has a name, job title, country, and salary, plus email, department, city, employment type, status, and hire date. Insights show the minimum, maximum, and average salary in a country, and the average for a job title in that country. Averages are never mixed across currencies.
-
+https://salary-management-lilac.vercel.app/
 ## Screenshots
 
 Salary insights for one country, including the average for a job title.
