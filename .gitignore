@@ -1,0 +1,14 @@
+.DS_Store
+_assessment_extract.txt
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.db
+*.db-shm
+*.db-wal
+node_modules/
+dist/
+.vite/
+coverage/
+*.log
