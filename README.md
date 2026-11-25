@@ -4,6 +4,20 @@ Salary directory and compensation insights for an HR manager, built for a workfo
 
 An employee has a name, job title, country, and salary, plus email, department, city, employment type, status, and hire date. Insights show the minimum, maximum, and average salary in a country, and the average for a job title in that country. Averages are never mixed across currencies.
 
+## Screenshots
+
+Salary insights for one country, including the average for a job title.
+
+![Salary insights for the United States, showing minimum, maximum, average, and the Software Engineer average](docs/screenshots/insights.png)
+
+The directory of 10,000 employees, with search, filters, and add, edit, and remove.
+
+![People directory with the Add employee button, filters, and the first page of employees](docs/screenshots/people.png)
+
+The form used to add an employee. The salary currency follows the country.
+
+![Add employee form with name, role, country, salary, and hire date](docs/screenshots/add-employee.png)
+
 ## Run it
 
 Python 3.13 and Node 20 or newer.
